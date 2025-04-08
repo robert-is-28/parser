@@ -52,7 +52,7 @@
     "generate-parser": "node ./dist/generate-custom-parser.js"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=18.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
